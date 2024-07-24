@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1672222004 source:c:\users\hp\desktop\order_system\customer.cpp
+	"customer.h"
+
+1672220546 c:\users\hp\desktop\order_system\customer.h
+	<iostream>
+	<string>
+
+1672225134 source:c:\users\hp\desktop\order_system\payment.cpp
+	"payment.h"
+
+1672227648 c:\users\hp\desktop\order_system\payment.h
+	<iostream>
+
+1672222020 source:c:\users\hp\desktop\order_system\main.cpp
+	<iostream>
+	"order.h"
+
+1672222933 c:\users\hp\desktop\order_system\order.h
+	<iostream>
+	<string>
+	<iomanip>
+	"orderDetails.h"
+	"payment.h"
+
+1672228263 c:\users\hp\desktop\order_system\orderdetails.h
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	<vector>
+	"item.h"
+	<bits/stdc++.h>
+
+1672228419 c:\users\hp\desktop\order_system\item.h
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	<map>
+	<bits/stdc++.h>
+
+1672223481 source:c:\users\hp\desktop\order_system\orderdetails.cpp
+	"orderDetails.h"
+
+1672223775 source:c:\users\hp\desktop\order_system\order.cpp
+	"order.h"
+
